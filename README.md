@@ -117,27 +117,6 @@ These folders are preserved for:
 
 ---
 
-## How Students Should Use This Repository
-
-- Start from **Semester → University → Course**
-- Follow sessions chronologically
-- Use the Telegram channel for updates and announcements
-- Treat the repository as a living academic notebook
-
----
-
-## Usage & Contributions
-
-- This repository is **public and educational**
-- Students may:
-  - Fork for personal study
-  - Clone for offline access
-  - Reference code for learning purposes
-
-For structural changes or major contributions, coordination with the instructor is recommended.
-
----
-
 ## License
 
 Unless otherwise specified, materials are shared for **educational and non-commercial use**.
