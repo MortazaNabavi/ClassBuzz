@@ -9,7 +9,7 @@ Stay informed about class news, schedules, and updates via the Telegram channel:
 The repository is organized hierarchically for better navigation. Here's the planned directory structure:
 <br/>/SemesterCode: Folder for semesters (e.g., /Fall2025).
 <br/>/UniversityNameCode: Subfolders for Institurtes name (e.g., /GHU for Gharjistan Univresity).
-<br/>/CourseCode: Course-specific folders (e.g., /CS-CPP1-Night-GC for CS Faculty, CPP 3rd Group, Nigh).
+<br/>/CourseCode: Course-specific folders (e.g., /CS-CPP1-Night-GC for CS Faculty, CPP 3rd Group, Night Time).
 <br/>/SessionDate: Session folders by date (e.g., /14040404).
 <br/>/Files: Contains source codes, notebooks, slides, or other files for that session.
 
