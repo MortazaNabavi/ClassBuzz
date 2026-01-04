@@ -1,28 +1,171 @@
-# ClassBuzz Repository
+# ClassBuzz  
+**Academic Source Code & Course Materials Repository**
 
-Welcome to the ClassBuzz repository! This public GitHub repository is dedicated to sharing source codes, examples, and resources from educational classes taught by Mortaza Nabavi. The goal is to provide easy access to course materials for students, learners, and enthusiasts.
+ClassBuzz is a public educational repository for sharing source codes, session materials, and course resources used in university and institute-level classes.
 
-### Announcements and Updates
-Stay informed about class news, schedules, and updates via the Telegram channel: t.me/ClassBuzz. Join the channel to receive notifications on new content, upcoming sessions, and related announcements.
+The repository is actively maintained and structured to support:
+- Clear academic organization
+- Easy navigation for students
+- Long-term archiving of course materials
+- Future conversion into a static educational website
 
-### Repository Structure
-The repository is organized hierarchically for better navigation. Here's the planned directory structure:
-<br/>/SemesterCode: Folder for semesters (e.g., /Fall2025).
-<br/>/UniversityNameCode: Subfolders for Institurtes name (e.g., /GHU for Gharjistan Univresity).
-<br/>/CourseCode: Course-specific folders (e.g., /CS-CPP1-Night-GC for CS Faculty, CPP 3rd Group, Night Time).
-<br/>/SessionDate: Session folders by date (e.g., /14040404).
-<br/>/Files: Contains source codes, notebooks, slides, or other files for that session.
+---
 
-### Additionally:
-github.com/MortazaNAbavi/courses: Legacy Repository containing files and resources from previous semesters. This may be migrated to the new structure over time.
-<br/>New content will follow this structure to keep things organized and searchable.
+## Official Channels
 
-### How to Use
-Clone the Repository:
-<br/>git clone https://github.com/MortazaNabavi/ClassBuzz.git
-<br/>Navigate to the relevant university, semester, course, and session folders to find the files you need.
-<br/>Run or study the source codes in your preferred environment (e.g., Python, Jupyter Notebook).
+- **GitHub Repository:**  
+  https://github.com/MortazaNabavi/ClassBuzz
 
-### If you're contributing new codes or suggestions:
-  * Fork the repository and submit a Pull Request.
-  * Discuss ideas in the Telegram channel or open an Issue on GitHub.
+- **Telegram Channel (Announcements & Class News):**  
+  https://t.me/ClassBuzz
+
+---
+
+## Purpose of This Repository
+
+ClassBuzz is designed to function as:
+
+- A shared source code hub for classroom teaching
+- A session-by-session archive of course materials
+- A reference repository for reviewing previous semesters
+- A base structure for an academic documentation website
+
+This repository grows along with the classes that use it.
+
+---
+
+## Repository Structure
+
+The repository is organized **hierarchically** for better navigation.
+
+### Planned Directory Structure
+
+/ClassBuzz/
+└── SemesterCode/
+└── UniversityNameCode/
+└── CourseCode/
+└── SessionDate/
+└── Files
+
+
+---
+
+### Directory Naming Conventions
+
+#### `/SemesterCode`
+Folder for academic semesters.
+
+Examples:
+/Fall2025
+/Spring2026
+
+---
+
+#### `/UniversityNameCode`
+Subfolders representing universities or institutes.
+
+Examples:
+/GHU → Gharjistan University
+/Kateb → Kateb University
+
+---
+
+#### `/CourseCode`
+Course-specific folders with detailed identifiers.
+
+Example:
+/CS-CPP1-Night-GC
+
+Meaning:
+- **CS** → Computer Science faculty  
+- **CPP1** → C++ Programming (Group / Level 1)  
+- **Night** → Night classes  
+- **GC** → Internal course or group code  
+
+This flexible naming allows precise distinction between parallel classes.
+
+---
+
+#### `/SessionDate`
+Each class session is stored in a folder named by date.
+
+Example:
+/14040404
+
+Each session folder may contain:
+- Source code
+- Slides
+- PDFs
+- Assignments
+- Notebooks
+- Notes
+- Supplementary resources
+
+---
+
+## Previous Courses Archive
+
+Materials from previous terms or legacy structures are stored in:
+
+/courses/
+
+These folders are preserved for:
+- Reference
+- Self-study
+- Historical comparison
+- Curriculum documentation
+
+---
+
+## Website & GitHub Pages Ready
+
+This repository is structured to be easily converted into a static website using tools such as:
+
+- GitHub Pages
+- MkDocs
+- Docusaurus
+- Jekyll
+
+With minimal configuration, it can be published as:
+https://mortazanabavi.github.io/ClassBuzz
+
+or connected to a custom subdomain.
+
+---
+
+## How Students Should Use This Repository
+
+- Start from **Semester → University → Course**
+- Follow sessions chronologically
+- Use the Telegram channel for updates and announcements
+- Treat the repository as a living academic notebook
+
+---
+
+## Usage & Contributions
+
+- This repository is **public and educational**
+- Students may:
+  - Fork for personal study
+  - Clone for offline access
+  - Reference code for learning purposes
+
+For structural changes or major contributions, coordination with the instructor is recommended.
+
+---
+
+## License
+
+Unless otherwise specified, materials are shared for **educational and non-commercial use**.
+
+Individual folders or projects may contain their own licenses.
+
+---
+
+## Maintained By
+
+**Mortaza Nabavi**  
+
+---
+
+> Structured knowledge is easier to learn, revisit, and share.
