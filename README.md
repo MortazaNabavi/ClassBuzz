@@ -117,22 +117,6 @@ These folders are preserved for:
 
 ---
 
-## Website & GitHub Pages Ready
-
-This repository is structured to be easily converted into a static website using tools such as:
-
-- GitHub Pages
-- MkDocs
-- Docusaurus
-- Jekyll
-
-With minimal configuration, it can be published as:
-https://mortazanabavi.github.io/ClassBuzz
-
-or connected to a custom subdomain.
-
----
-
 ## How Students Should Use This Repository
 
 - Start from **Semester → University → Course**
@@ -164,7 +148,11 @@ Individual folders or projects may contain their own licenses.
 
 ## Maintained By
 
-**Mortaza Nabavi**  
+**Mortaza Nabavi**
+<br/>https://mortaza.futech.af
+<br/>mortaza@ghu.edu.af
+<br/>mortaza@futech.af
+<br/>mortazanabavi@hotmail.com
 
 ---
 
