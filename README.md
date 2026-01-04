@@ -41,11 +41,11 @@ The repository is organized **hierarchically** for better navigation.
 ### Planned Directory Structure
 
 /ClassBuzz/
-└── SemesterCode/
-└── UniversityNameCode/
-└── CourseCode/
-└── SessionDate/
-└── Files
+<br/>└── SemesterCode/
+<br/>└── UniversityNameCode/
+<br/>└── CourseCode/
+<br/>└── SessionDate/
+<br/>└── Files
 
 
 ---
@@ -56,8 +56,8 @@ The repository is organized **hierarchically** for better navigation.
 Folder for academic semesters.
 
 Examples:
-/Fall2025
-/Spring2026
+<br/>/Fall2025
+<br/>/Spring2026
 
 ---
 
@@ -65,8 +65,8 @@ Examples:
 Subfolders representing universities or institutes.
 
 Examples:
-/GHU → Gharjistan University
-/Kateb → Kateb University
+<br/>/GHU → Gharjistan University
+<br/>/Kateb → Kateb University
 
 ---
 
