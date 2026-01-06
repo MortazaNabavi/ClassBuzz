@@ -7,7 +7,6 @@ The repository is actively maintained and structured to support:
 - Clear academic organization
 - Easy navigation for students
 - Long-term archiving of course materials
-- Future conversion into a static educational website
 
 ---
 
@@ -15,6 +14,7 @@ The repository is actively maintained and structured to support:
 
 - **GitHub Repository:**  
   https://github.com/MortazaNabavi/ClassBuzz
+  https://classbuzz.futech.af
 
 - **Telegram Channel (Announcements & Class News):**  
   https://t.me/ClassBuzz
@@ -28,7 +28,6 @@ ClassBuzz is designed to function as:
 - A shared source code hub for classroom teaching
 - A session-by-session archive of course materials
 - A reference repository for reviewing previous semesters
-- A base structure for an academic documentation website
 
 This repository grows along with the classes that use it.
 
@@ -107,7 +106,7 @@ Each session folder may contain:
 
 Materials from previous terms or legacy structures are stored in:
 
-/courses/
+github.com/MortazaNabavi/cources
 
 These folders are preserved for:
 - Reference
