@@ -1,0 +1,32 @@
+img{
+				border: 10px red solid;
+				border-radius: 50%;
+				width: 200px;
+				height: 200px;
+			}
+
+#myTD, #myTD2{
+	background-color: yellow;
+}
+
+.myClass{
+	background-color: blue;
+}
+
+.myClass2{
+	font-size: 40px;
+}
+			table,td, th{
+				border:2px solid blue;
+				border-collapse: collapse;
+			}
+
+			p{
+				border: 2px black dashed;
+				color: #00F;
+				font-size: 30px;
+			}
+
+			body{
+				background:  pink url("picture.dpng") no-repeat center;
+			}

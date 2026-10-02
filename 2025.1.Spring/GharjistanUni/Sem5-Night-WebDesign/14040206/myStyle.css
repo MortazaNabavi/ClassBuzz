@@ -1,0 +1,55 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: pink;
+	background-color: blue;
+}
+
+table, td, th{
+	
+	border:1px black solid;
+	border-collapse: collapse;
+}
+
+.redColor{
+	background-color: red;
+}
+
+#blueColor1, #blueColor2, #blueColor3, #blueColor4{
+	background-color: blue;
+}
+
+#myBG{
+	background: url("picture.png");
+}
+
+
+
+.imgCircle{
+	border-radius: 50%;
+	width: 200px;
+height: 200px; 
+border:3px red double;
+}
+
+#myBody{
+	background-color: yellow;
+}
+
+td{
+	padding: 40px 30px 20px 10px;
+	padding: 50px 25px;
+	padding: 0px;
+}
+
+table{
+	
+	margin: 10px;
+}
+
+input{
+	margin: 5px;
+}
