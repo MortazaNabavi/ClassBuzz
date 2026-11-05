@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main(){
+	int x;
+	cin >>x;
+	
+	switch(x){
+		case 1: case 2: case 3: cout<<"Bahar"; break;
+		case 4: case 5: case 6: cout<<"Tabestan"; break;
+		case 7: case 8: case 9: cout<<"Khazan"; break;
+		case 10: case 11: case 12: cout<<"Zemestan"; break;
+		default: cout<<"ERROR!";
+	}
+	return 0;
+}

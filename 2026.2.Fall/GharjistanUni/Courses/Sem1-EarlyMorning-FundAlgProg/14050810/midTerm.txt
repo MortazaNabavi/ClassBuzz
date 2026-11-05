@@ -1,0 +1,62 @@
+1.	start
+2.	get usage
+3.	fee=90
+4.	pay=usage*fee
+5.	taxRate=20
+6.	tax= pay*taxRate/100
+7.	pay=pay+tax
+8.	show pay
+9.	end
+
+
+
+1.	start
+2.	get v, i
+3.	r=v/i
+4.	show r
+5.	end
+
+
+1.start
+2.	get d, t
+3.	speed= d/t
+4.	show speed
+5.	end
+
+
+1.	start
+2.	get L, W
+3.	rectangle=L*W
+
+3+	h=W
+3++	b=L
+3++	triangle=(h*b)/2
+
+4.	triangle=(L*W)/2
+5.	result=rectangle-triangle
+6.	show result
+7.	end
+
+
+
+float a,b,c,d;
+cin >>a >>b >>c >>d;
+float average= (a+b+c+d)/4
+cout<<average;
+
+
+
+float c;
+cin >>c;
+float f= c*1.8+32
+cout <<f;
+
+
+temp=a
+a=b
+b=temp
+
+
+
+
+
